@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 h1{
     color:red;
 }
-#Logo{
-    background-image: url("balloon-2.jpg");
-=======
 body {
      margin: auto;
      background-color: rgb(229,234,236);
@@ -12,8 +8,4 @@ body {
      background-size: cover;
      background-repeat:no-repeat;
      font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1 {
-    font: red;
->>>>>>> 5121c03dacb7d3af5e0f7306a97a759d5c7f3fa7
 }
